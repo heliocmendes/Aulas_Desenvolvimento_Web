@@ -1,0 +1,18 @@
+body{
+    background-color: aquamarine;
+}
+p{
+    font-size: large;
+    font-family: Georgia, serif;
+    color: red;
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    align-items: center;
+}
+h2{
+    color: aqua;
+}

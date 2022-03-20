@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(236, 234, 99);
+}
+h1{
+    font-size: 20pt;
+    font-family: Verdana, Arial, sans-serif;
+    color: darkgreen;
+    text-align: center;
+}
+h2{
+    color: orange;
+    
+}
+p{
+    color: black;
+    font-weight: bolder;
+    background-color: yellowgreen;
+    text-align: justify;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-indent: 1.5cm;
+    line-height: 24pt;
+}
